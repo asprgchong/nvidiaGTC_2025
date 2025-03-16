@@ -1,0 +1,22 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}Useful Links:}{1}{section.1}%
+\contentsline {section}{\numberline {2}History of AI}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Early Neural Networks}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}The Deep Learning Revolution}{2}{subsection.2.2}%
+\contentsline {section}{\numberline {3}What is Deep Learning?}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Traditional Programming}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Deep Learning steps...}{2}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Hello Neural Networks}{2}{section.4}%
+\contentsline {section}{\numberline {5}\href {http://dli-e5d62e622240-a8611b.westus3.cloudapp.azure.com/lab/lab/tree/01_mnist.ipynb}{Lab 1: Mnist Dataset}}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Validation vs Test}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}However, just a validation set is not enough!}{3}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}What is the tech stack?}{4}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Walk through of Lab 1}{4}{subsection.5.4}%
+\contentsline {section}{\numberline {6}\href {http://dli-e5d62e622240-a8611b.westus3.cloudapp.azure.com/lab/lab/tree/02_asl.ipynb}{Lab 2: ASL}}{4}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Kernels and Convolution}{4}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}\href {http://dli-e5d62e622240-a8611b.westus3.cloudapp.azure.com/lab/lab/tree/03_asl_cnn.ipynb}{Lab 3: Convolutional networks to avoid overfitting}}{5}{subsection.6.2}%
+\contentsline {section}{\numberline {7}\href {http://dli-e5d62e622240-a8611b.westus3.cloudapp.azure.com/lab/lab/tree/04a_asl_augmentation.ipynb}{Lab 4: Data Augmentation}}{5}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Deploying the model:}{6}{subsection.7.1}%
+\contentsline {section}{\numberline {8}Pre-trained Models: Very Deep Convolutional Networks for Large-scale image recognition}{6}{section.8}%
+\contentsline {section}{\numberline {9}Advanced Architectures}{7}{section.9}%
+\contentsline {section}{\numberline {10}Natural Language Processing}{7}{section.10}%
