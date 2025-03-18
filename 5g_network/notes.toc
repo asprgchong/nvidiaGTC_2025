@@ -1,0 +1,7 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}5G-Slicing-lab Overview}{1}{section.1}%
+\contentsline {section}{\numberline {2}Introduction to LLM-Agents}{2}{section.2}%
+\contentsline {section}{\numberline {3}Agent Building Essentials}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}ReAct Agent in Langgraph}{2}{subsection.3.1}%
+\contentsline {section}{\numberline {4}5G Network Agent Overview}{2}{section.4}%
+\contentsline {subsection}{\numberline {4.1}5G-Network Architecture}{2}{subsection.4.1}%

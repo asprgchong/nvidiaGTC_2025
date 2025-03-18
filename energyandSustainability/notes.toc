@@ -1,0 +1,3 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}AI and Energy: AI's energy footprint}{1}{section.1}%
+\contentsline {section}{\numberline {2}Handprint of AI}{1}{section.2}%

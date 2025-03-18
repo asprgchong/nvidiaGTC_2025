@@ -1,0 +1,55 @@
+\documentclass{article}
+\usepackage{lipsum}
+% Language setting
+% Replace `english' with e.g. `spanish' to change the document language
+\usepackage[english]{babel}
+% Set page size and margins
+% Replace `letterpaper' with `a4paper' for UK/EU standard size
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{wrapfig}
+\usepackage{pdfpages}
+\usepackage{lipsum}
+\usepackage{wrapfig}
+% \usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+\usepackage{color}   %May be necessary if you want to color links
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true, %set true if you want colored links
+    linktoc=all, 
+    linkcolor=blue,
+}
+\usepackage{cleveref}
+% More defined colors
+\usepackage[dvipsnames]{xcolor}
+
+% Required package
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+\title{Learn to Build Agnetic AI Workflows for Enterprise Applications}
+\author{Geralyn Chong}
+\begin{document}
+\maketitle
+\tableofcontents
+Also about the Open source software: NVIDIA library AgentIQ released on \href{https://github.com/NVIDIA/AgentIQ}{Github} today!
+
+\section{History of Agents}
+Dendral AI, feed it data to predict the chemical working with consisting of the planner, generator (with constraints, generate possible chemicals), evaluator. Mycin help experts identify blood bacteria with agents but also with a human in the loop. Evolving to today's Siri and Alexa. 
+
+AgentIQ is not an agentic framework. Designed to take in data and help to build agents with respect to chosen frameworks. What are the goals? \begin{itemize}
+    \item Improved code reuse
+    \item Low barrier to entry
+    \item Allow Developers and Data Sceintists to focus on implementation not infrastructure
+    \item Highly performant
+    \item Identical code in production and development environments
+\end{itemize}
+
+
+
+\end{document}

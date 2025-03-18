@@ -1,0 +1,5 @@
+\babel@toc {english}{}\relax 
+\contentsline {section}{\numberline {1}History of Scaled Foundations team}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Important Lessons from AirSim}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}GRID + Isaac Sim}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Hands-on Experience on grid.scaledfoundations.ai}{2}{section.2}%
