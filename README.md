@@ -7,3 +7,6 @@ Workshops that I attended:
 5. Accelerate Physical AI Development Workflows with Omniverse Cloud Sensor RTX - Incomplete
 6. Introduction to Robot Simulation and Intelligence - Incomplete
 
+# How to download the entire set of folders and files from your lab
+Navigate to a terminal in your lab's jupyter notebook and then copy paste this: ```tar chvfz download.tar.gz *```
+This will allow you to download the entire notebook as one file by right clicking on the ```download.tar.gz``` folder in your sidebar. 
